@@ -1,0 +1,5 @@
+soma_produto_1_e_20 = CALCULATE(SUM(produtos[VALOR_UNITARIO]),FILTER(produtos,OR(produtos[ID_PRODUTO]=1,produtos[ID_PRODUTO]=20)))
+
+soma_total_produtos = SUM(produtos[VALOR_UNITARIO])
+
+desconto_90_por_cento = SUMX(produtos,produtos[VALOR_UNITARIO]*0.9)
