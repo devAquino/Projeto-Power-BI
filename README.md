@@ -22,5 +22,5 @@ Qual a conversão das comunicações? Quantos clientes compraram após a mensage
 
 Qual o custo por cliente convertido?
 
-É um dashboard simples. É, eu sei..., preciso do toque de um ux designer, mas mostra a evolução do meu aprendizado
->>>>>>> 5c9ae88acd79893e1615d52729cb4473e8c4b4a8
+É um dashboard simples. É, eu sei..., preciso do toque de um ux designer, mas mostra a evolução do meu aprendizado.
+![dashboard](https://user-images.githubusercontent.com/8195518/200142145-d2e6fe2b-c901-45a9-a491-ece81cafbb13.png)
